@@ -1,1 +1,1 @@
-DOCKER-james_VPS
+DOCKER:VPS
